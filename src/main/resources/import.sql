@@ -1,0 +1,10 @@
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Aghna','aghna@gmail.com','123');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Adharsha','adharshna@gmail.com','1234');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Praba','praba@gmail.com','12345');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Dharani','dharani@gmail.com','999');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Kavitha','kavitha@gmail.com','888');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Gowri','gowri@gmail.com','666');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Chandri','chandri@gmail.com','777');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Deva','deva@gmail.com','555');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Lohit','lohit@gmail.com','333');
+insert into students(id, name, email, password) values (nextval('students_SEQ'),'Niventhan','nive@gmail.com','222');
